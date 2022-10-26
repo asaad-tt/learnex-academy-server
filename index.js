@@ -10,9 +10,26 @@ app.get("/", (req, res) => {
 });
 
 const categories = require("./data/categories.json");
+const courses = require("./data/courses.json");
 
 app.get("/course-categories", (req, res) => {
   res.send(categories);
+});
+
+app.get("/course-awesome", (req, res) => {
+  res.send(courses);
+});
+
+app.get("/courses/:id", (req, res) => {
+  const id = req.params.id;
+  const singleCourse = courses.find((course) => course._id == id);
+  res.send(singleCourse);
+});
+
+app.get("/category/:id", (req, res) => {
+  const id = req.params.id;
+  const category_news = courses.filter((n) => n.category_id == id);
+  res.send(category_news);
 });
 
 app.listen(port, () => {

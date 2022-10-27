@@ -1,7 +1,7 @@
 [
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-
+    "price": "100$",
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
@@ -13,14 +13,13 @@
       "img": "https://i.ibb.co/7VK0GhP/jimmy-uso.jpg"
     },
 
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
     "image_url": "https://i.ibb.co/MZwSnTk/mern.jpg",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, "
+    "details": "Full-stack development refers to the method of applying both front-end and back development protocols to develop websites. This field has been gaining popularity in recent years due to the growing number of digital businesses. It combines the work of managing servers and databases and system engineering. Full-stack developers are in great demand across the world.Crampete's full-stack developer course syllabus has the following modules: 1.Overview, 2.HTML, 3.CSS,4.Programming with Javascript, 4.ReactJS Development, 5.NodeJS Development, 6.MongoDB, 7.Python, 8.Version Control system, 9. 6 Mini Projects, 10. 1 Capstone Project"
   },
 
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-
+    "price": "50$",
     "category_id": "02",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
@@ -31,14 +30,14 @@
       "published_date": "2022-08-24 17:27:34",
       "img": "https://i.ibb.co/2WXV95B/gosling.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+
     "image_url": "https://i.ibb.co/tsgdp4Z/digital-marketing.jpg",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, "
+    "details": "With the digital revolution, technology has opened a new door for marketers. What we market may not have changed but how we market has indefinitely changed. The evolved study of marketing, known as digital marketing, has opened new opportunities for businesses and aspiring digital marketers. The digital industry is growing at a rate of 14% annually, making it the most desirable career in today's scenario. our course Outline: 1. Introduction to Digital Marketing, 2. Website Planning and Creation, 3. Search Engine Optimisation (SEO), 4. Search Engine Marketing, 5. Social Media Marketing, 6. Content Marketing & Strategy, 7. Web Analytics, 8. Digital Media Planning and Buying, 9. Web Remarketing, 10. Design Essentials "
   },
 
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
-
+    "price": "60$",
     "category_id": "03",
     "rating": { "number": 4.8, "badge": "Excellent" },
     "total_view": 400,
@@ -49,14 +48,14 @@
       "published_date": "2022-08-30 16:38:45",
       "img": "https://i.ibb.co/rsBPVHv/miz.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+
     "image_url": "https://i.ibb.co/b3BhqH5/wordpress.jpg",
-    "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of "
+    "details": "In this course, you'll learn about how plugins work and how you can create different kinds of plugin. This is a comprehensive guide to everything you need to know to write your own plugins! You'll start with the basics—how to create a new plugin, how to structure your code, and how to connect to the plugin's API. Next, you'll learn some of the fundamentals of plugin development, like including scripts and styles. Finally, you'll learn the building blocks of creating WordPress plugins: custom content types and taxonomies, adding settings to the admin page, outputting HTML content, and creating widgets and shortcodes.What you'll learn: 1.Build a fully functioning WordPress theme and plugin, 2.License your theme and/or plugin, 3.Understand the WordPress core and it's functions, 4.Query the Database and create tables, 6.Confidently use the command line and learn basic commands, 7.improve your workflow using Babel and Webpack, 8.Build websites for any business and audience "
   },
 
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
-
+    "price": "40$",
     "category_id": "04",
     "rating": { "number": 4.3, "badge": "Excellent" },
     "total_view": 400,
@@ -67,14 +66,13 @@
       "published_date": "2022-08-30 16:38:45",
       "img": "https://i.ibb.co/hBxnkmb/roman.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
     "image_url": "https://i.ibb.co/vmsGz7S/blog-writing.jpg",
-    "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of "
+    "details": "Are you struggling to get website traffic to your blog?Confused on how to write a great blog post? Just wanting to improve your writing skills? Look no further! The Complete Blog Writing Course, packed with hours upon hours of video notes and real life examples is here to help ensure that you get the most out of your blog posts and maximize your writing skills.Did you know that blogs were ranked as the fifth best source for trusted information on the internet? Now has never been a better time to start your own blog, and if you have one now, to elevate it to new heights. Wouldn't you like to get paid to write about your passion? Learn how to have an irresistible headline, build perfect cover images, write with a voice, market your work to the world, and so much more.Lessons are taught in a practical way, using a combination of slideshow presentations, pdf examples, and even breakdowns of real life articles. Each lesson section also comes with downloadable notes and a quiz to ensure that you get the most out of your learning."
   },
 
   {
     "_id": "11468ed61aee84de492a8b04158a22f9",
-
+    "price": "50$",
     "category_id": "05",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
@@ -85,14 +83,13 @@
       "published_date": "2022-08-24 23:15:00",
       "img": "https://i.ibb.co/KFp5Bt3/bale.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
     "image_url": "https://i.ibb.co/nbWm1yt/video-editing.jpg",
-    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the "
+    "details": "A career as a video editor can be an exciting prospect for people who are tech-savvy with a keen eye for both the big picture and little details. The current focus on video content creation means that film editors are in demand more than ever before. But as with any career in the entertainment industry, video editing is a complex and demanding job. VIDEO EDITING COURSE OUTLINE: 1. Getting started with Video (Introduction), 2. Understanding How Video works (devices & prerequisites, styles, formats etc.) 3. Introduction to Editing Basics, Tools & Interfaces 4. Importing Media & Editing Techniques (Basic & Advanced) 5. Mastering the timeline & workflow 6. Understanding Transitions, Elements, Titles & Effects 7. Working with Sound 8. Colour Correction  9. Exporting 10. Content Creation & Independent Video Project"
   },
 
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
-
+    "price": "30$",
     "category_id": "06",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 980,
@@ -103,8 +100,8 @@
       "published_date": "2022-08-24 23:15:00",
       "img": "https://i.ibb.co/gMcn6WH/kalaway.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+
     "image_url": "https://i.ibb.co/qrrGxvF/email-marketing.jpg",
-    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the "
+    "details": "Master the art of email marketing through our course Implementing Effective E-Mail Marketing Campaigns for Your Business. Instead of waiting passively for visits to your business website, take your website directly to your target audience. In this course, you will learn to use email to simultaneously market your brand, build customer relationships, sell your products, and announce your events â€“ all at the click of a button. Upon completing this course, you will: Know the elements of marketing emails, Know the appropriate content to use in your email campaign, Know how to implement your email marketing campaign, Know how to build your email list, Be prepared to choose your email marketing provider, Be able to measure the success of your email campaign."
   }
 ]
